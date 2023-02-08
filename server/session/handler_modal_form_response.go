@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"github.com/df-mc/atomic"
 	"github.com/df-mc/dragonfly/server/player/form"
-	"github.com/sandertv/gophertunnel/minecraft/protocol/packet"
+	"github.com/RadiatedMonkey/gophertunnel/minecraft/protocol/packet"
 	"sync"
 )
 

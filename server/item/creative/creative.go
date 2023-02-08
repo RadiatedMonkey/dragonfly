@@ -8,7 +8,7 @@ import (
 	// in the init function in this package.
 	"github.com/df-mc/dragonfly/server/item"
 	"github.com/df-mc/dragonfly/server/world"
-	"github.com/sandertv/gophertunnel/minecraft/nbt"
+	"github.com/RadiatedMonkey/gophertunnel/minecraft/nbt"
 )
 
 // Items returns a list with all items that have been registered as a creative item. These items will

@@ -5,7 +5,7 @@ import (
 	"github.com/df-mc/dragonfly/server/internal/nbtconv"
 	"github.com/df-mc/dragonfly/server/item"
 	"github.com/df-mc/dragonfly/server/player"
-	"github.com/sandertv/gophertunnel/minecraft/nbt"
+	"github.com/RadiatedMonkey/gophertunnel/minecraft/nbt"
 )
 
 func invToData(data player.InventoryData) jsonInventoryData {

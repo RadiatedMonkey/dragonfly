@@ -7,7 +7,7 @@ import (
 	"github.com/df-mc/dragonfly/server/item/inventory"
 	"github.com/df-mc/dragonfly/server/item/recipe"
 	"github.com/df-mc/dragonfly/server/world"
-	"github.com/sandertv/gophertunnel/minecraft/protocol"
+	"github.com/RadiatedMonkey/gophertunnel/minecraft/protocol"
 	"golang.org/x/exp/slices"
 	"math"
 )

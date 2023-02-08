@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"github.com/df-mc/dragonfly/server/block"
 	"github.com/df-mc/dragonfly/server/item"
-	"github.com/sandertv/gophertunnel/minecraft/protocol"
+	"github.com/RadiatedMonkey/gophertunnel/minecraft/protocol"
 )
 
 const (

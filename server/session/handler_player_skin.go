@@ -2,7 +2,7 @@ package session
 
 import (
 	"fmt"
-	"github.com/sandertv/gophertunnel/minecraft/protocol/packet"
+	"github.com/RadiatedMonkey/gophertunnel/minecraft/protocol/packet"
 )
 
 // PlayerSkinHandler handles the PlayerSkin packet.

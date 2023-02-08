@@ -3,8 +3,8 @@ package session
 import (
 	"github.com/df-mc/dragonfly/server/cmd"
 	"github.com/go-gl/mathgl/mgl64"
-	"github.com/sandertv/gophertunnel/minecraft/protocol"
-	"github.com/sandertv/gophertunnel/minecraft/protocol/packet"
+	"github.com/RadiatedMonkey/gophertunnel/minecraft/protocol"
+	"github.com/RadiatedMonkey/gophertunnel/minecraft/protocol/packet"
 )
 
 // SendCommandOutput sends the output of a command to the player. It will be shown to the caller of the

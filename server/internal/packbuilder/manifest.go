@@ -3,8 +3,8 @@ package packbuilder
 import (
 	"encoding/json"
 	"github.com/google/uuid"
-	"github.com/sandertv/gophertunnel/minecraft/protocol"
-	"github.com/sandertv/gophertunnel/minecraft/resource"
+	"github.com/RadiatedMonkey/gophertunnel/minecraft/protocol"
+	"github.com/RadiatedMonkey/gophertunnel/minecraft/resource"
 	"os"
 	"path/filepath"
 	"strconv"

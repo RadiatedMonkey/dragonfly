@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"github.com/df-mc/dragonfly/server/block/cube"
 	"github.com/df-mc/dragonfly/server/event"
-	"github.com/sandertv/gophertunnel/minecraft/protocol"
-	"github.com/sandertv/gophertunnel/minecraft/protocol/packet"
+	"github.com/RadiatedMonkey/gophertunnel/minecraft/protocol"
+	"github.com/RadiatedMonkey/gophertunnel/minecraft/protocol/packet"
 )
 
 // InventoryTransactionHandler handles the InventoryTransaction packet.

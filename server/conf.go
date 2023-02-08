@@ -14,7 +14,7 @@ import (
 	"github.com/df-mc/dragonfly/server/world/mcdb"
 	"github.com/df-mc/goleveldb/leveldb/opt"
 	"github.com/google/uuid"
-	"github.com/sandertv/gophertunnel/minecraft/resource"
+	"github.com/RadiatedMonkey/gophertunnel/minecraft/resource"
 	"github.com/sirupsen/logrus"
 	"golang.org/x/exp/slices"
 	"os"

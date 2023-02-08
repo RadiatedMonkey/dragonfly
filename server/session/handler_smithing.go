@@ -3,7 +3,7 @@ package session
 import (
 	"fmt"
 	"github.com/df-mc/dragonfly/server/item/recipe"
-	"github.com/sandertv/gophertunnel/minecraft/protocol"
+	"github.com/RadiatedMonkey/gophertunnel/minecraft/protocol"
 )
 
 const (

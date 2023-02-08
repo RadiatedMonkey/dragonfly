@@ -2,8 +2,8 @@ package session
 
 import (
 	"github.com/df-mc/dragonfly/server/player/scoreboard"
-	"github.com/sandertv/gophertunnel/minecraft/protocol"
-	"github.com/sandertv/gophertunnel/minecraft/protocol/packet"
+	"github.com/RadiatedMonkey/gophertunnel/minecraft/protocol"
+	"github.com/RadiatedMonkey/gophertunnel/minecraft/protocol/packet"
 	"time"
 )
 

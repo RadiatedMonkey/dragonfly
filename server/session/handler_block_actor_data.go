@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"github.com/df-mc/dragonfly/server/block"
 	"github.com/df-mc/dragonfly/server/block/cube"
-	"github.com/sandertv/gophertunnel/minecraft/protocol/packet"
+	"github.com/RadiatedMonkey/gophertunnel/minecraft/protocol/packet"
 	"strings"
 	"unicode/utf8"
 )

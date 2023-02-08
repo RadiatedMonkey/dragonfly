@@ -1,7 +1,7 @@
 package session
 
 import (
-	"github.com/sandertv/gophertunnel/minecraft/protocol/packet"
+	"github.com/RadiatedMonkey/gophertunnel/minecraft/protocol/packet"
 )
 
 // packetHandler represents a type that is able to handle a specific type of incoming packets from the client.

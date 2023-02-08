@@ -1,7 +1,7 @@
 package server
 
 import (
-	"github.com/sandertv/gophertunnel/minecraft/protocol/login"
+	"github.com/RadiatedMonkey/gophertunnel/minecraft/protocol/login"
 	"net"
 )
 

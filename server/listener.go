@@ -3,7 +3,7 @@ package server
 import (
 	"fmt"
 	"github.com/df-mc/dragonfly/server/session"
-	"github.com/sandertv/gophertunnel/minecraft"
+	"github.com/RadiatedMonkey/gophertunnel/minecraft"
 	"io"
 )
 

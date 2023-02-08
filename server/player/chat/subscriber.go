@@ -2,7 +2,7 @@ package chat
 
 import (
 	"fmt"
-	"github.com/sandertv/gophertunnel/minecraft/text"
+	"github.com/RadiatedMonkey/gophertunnel/minecraft/text"
 	"strings"
 )
 

@@ -5,7 +5,7 @@ import (
 	_ "embed"
 	"fmt"
 	"github.com/df-mc/dragonfly/server/world/chunk"
-	"github.com/sandertv/gophertunnel/minecraft/nbt"
+	"github.com/RadiatedMonkey/gophertunnel/minecraft/nbt"
 	"math"
 	"sort"
 	"strings"

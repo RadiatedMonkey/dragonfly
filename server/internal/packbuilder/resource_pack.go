@@ -2,7 +2,7 @@ package packbuilder
 
 import (
 	"github.com/rogpeppe/go-internal/dirhash"
-	"github.com/sandertv/gophertunnel/minecraft/resource"
+	"github.com/RadiatedMonkey/gophertunnel/minecraft/resource"
 	"os"
 )
 

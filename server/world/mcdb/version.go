@@ -1,7 +1,7 @@
 package mcdb
 
 import (
-	"github.com/sandertv/gophertunnel/minecraft/protocol"
+	"github.com/RadiatedMonkey/gophertunnel/minecraft/protocol"
 	"strconv"
 	"strings"
 )

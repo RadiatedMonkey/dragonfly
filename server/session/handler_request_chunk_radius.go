@@ -1,7 +1,7 @@
 package session
 
 import (
-	"github.com/sandertv/gophertunnel/minecraft/protocol/packet"
+	"github.com/RadiatedMonkey/gophertunnel/minecraft/protocol/packet"
 )
 
 // RequestChunkRadiusHandler handles the RequestChunkRadius packet.

@@ -1,7 +1,7 @@
 package server
 
 import (
-	"github.com/sandertv/gophertunnel/minecraft"
+	"github.com/RadiatedMonkey/gophertunnel/minecraft"
 )
 
 // statusProvider handles the way the server shows up in the server list. The

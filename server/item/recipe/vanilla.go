@@ -5,7 +5,7 @@ import (
 	// Ensure all blocks and items are registered before trying to load vanilla recipes.
 	_ "github.com/df-mc/dragonfly/server/block"
 	_ "github.com/df-mc/dragonfly/server/item"
-	"github.com/sandertv/gophertunnel/minecraft/nbt"
+	"github.com/RadiatedMonkey/gophertunnel/minecraft/nbt"
 )
 
 var (

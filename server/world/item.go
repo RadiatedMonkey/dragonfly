@@ -4,7 +4,7 @@ import (
 	_ "embed"
 	"fmt"
 	"github.com/df-mc/dragonfly/server/item/category"
-	"github.com/sandertv/gophertunnel/minecraft/nbt"
+	"github.com/RadiatedMonkey/gophertunnel/minecraft/nbt"
 	"image"
 )
 
